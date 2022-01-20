@@ -50,7 +50,7 @@
 		<html
 		<body>
 			<h3>
-			<img style="float: left; margin:10px" src="<?php echo get_template_directory_uri(); ?>/images/logooo.png" width="420px" height="auto">
+			<img style="float: left; margin:20px" src="<?php echo get_template_directory_uri(); ?>/images/logooo.png" width="420px" height="auto">
 			<h3>
 		</body>
 		</html>
@@ -59,7 +59,7 @@
 			<div id="logo">
 			<!-- <?php /* Custom Logo */ echo thinkup_custom_logo(); ?> -->
 			</div>
-			
+	
 			<div id="header-links" class="main-navigation">
 			<div id="header-links-inner" class="header-links">
 				<?php $walker = new thinkup_menudescription;
