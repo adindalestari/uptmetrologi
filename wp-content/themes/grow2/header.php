@@ -50,7 +50,7 @@
 		<html
 		<body>
 			<h3>
-			<a href=”http://profile.uptmetrologilegalpekanbaru.com/“><img style="float: left; margin:0px" src="<?php echo get_template_directory_uri(); ?>/images/logooo.png" width="420px" height="auto">
+			<a href=”http://profile.uptmetrologilegalpekanbaru.com/“><img style="float: left; margin:0px" src="<?php echo get_template_directory_uri(); ?>/images/logooo.png" width="450px" height="auto">
 			<h3>
 		</body>
 		</html>
