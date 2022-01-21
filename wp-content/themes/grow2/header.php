@@ -70,6 +70,15 @@
 			</div>
 			</div>
 			<!-- #header-links .main-navigation -->
+			<nav>
+			<ul>
+				<li><a href="http://profile.uptmetrologilegalpekanbaru.com/">Home</a></li>
+				<li><a href="#">Profil</a></li>
+				<li><a href="https://profile.uptmetrologilegalpekanbaru.com/index.php/kontak/">Kontak</a></li>
+				<li><a href="#">Galeri</a></li>
+				<li><a href="https://profile.uptmetrologilegalpekanbaru.com/index.php/pelayanan/">Pelayanan</a></li>
+			</ul>
+			</nav>
  	
 			<?php /* Add responsive header menu */ thinkup_input_responsivehtml1(); ?>
 
